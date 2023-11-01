@@ -3,7 +3,7 @@ import readchar
 import random
 from functools import reduce
 from typing import List, Tuple
-from Laberinto_correción import Juego
+from Laberinto_corrección import Juego
 
 
 class Juego_archivo(Juego):
